@@ -1,0 +1,8 @@
+First make a folder and then place all these files into it later create two more folder and be sure to name it exactly  as
+"Data_Base " and "recognizer"
+
+
+You need to have Python 3.6x installed in your PC and pip install opencv contrib and then you need to install numpy and pillow.
+
+Open Database_Creator (Enter user ID number) to take images of your face for database and then open trainer to create a .yml file and then for recognization 
+open Detector.
